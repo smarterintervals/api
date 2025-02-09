@@ -1,7 +1,5 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmarterIntervals.API", "src\SmarterIntervals.API\SmarterIntervals.API.csproj", "{683533F2-0E7C-4DC7-B6F6-B7CC15D24D19}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmarterIntervals.Appliances", "src\SmarterIntervals.Appliances\SmarterIntervals.Appliances.csproj", "{BC955BBF-3604-4BA6-9C6D-57E9DBDC4091}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmarterIntervals.Appliances.Tests", "src\SmarterIntervals.Appliances.Tests\SmarterIntervals.Appliances.Tests.csproj", "{2C514A64-67F1-4631-B39A-3B1D4E761DD1}"
@@ -22,16 +20,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmarterIntervals.Users", "s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmarterIntervals.Users.Tests", "src\SmarterIntervals.Users.Tests\SmarterIntervals.Users.Tests.csproj", "{F7BF893A-118C-49B8-A74C-FBCEBD1158CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmarterIntervals.API", "src\SmarterIntervals.API\SmarterIntervals.API.csproj", "{3961B3D3-FA6C-4EA5-A868-7E813998F1CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{683533F2-0E7C-4DC7-B6F6-B7CC15D24D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{683533F2-0E7C-4DC7-B6F6-B7CC15D24D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{683533F2-0E7C-4DC7-B6F6-B7CC15D24D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{683533F2-0E7C-4DC7-B6F6-B7CC15D24D19}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BC955BBF-3604-4BA6-9C6D-57E9DBDC4091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BC955BBF-3604-4BA6-9C6D-57E9DBDC4091}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC955BBF-3604-4BA6-9C6D-57E9DBDC4091}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -72,5 +68,9 @@ Global
 		{F7BF893A-118C-49B8-A74C-FBCEBD1158CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7BF893A-118C-49B8-A74C-FBCEBD1158CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7BF893A-118C-49B8-A74C-FBCEBD1158CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3961B3D3-FA6C-4EA5-A868-7E813998F1CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3961B3D3-FA6C-4EA5-A868-7E813998F1CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3961B3D3-FA6C-4EA5-A868-7E813998F1CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3961B3D3-FA6C-4EA5-A868-7E813998F1CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
