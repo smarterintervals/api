@@ -20,6 +20,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmarterIntervals.API", "src
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmarterIntervals.API.Tests", "SmarterIntervals.API.Tests\SmarterIntervals.API.Tests.csproj", "{B9F601AF-8879-4695-A510-9762A9B54A17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmarterIntervals.Shared", "src\SmarterIntervals.Shared\SmarterIntervals.Shared.csproj", "{2D6A88D4-9196-4F44-89C5-FA4C48408EBD}"
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +67,9 @@ Global
 		{B9F601AF-8879-4695-A510-9762A9B54A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9F601AF-8879-4695-A510-9762A9B54A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9F601AF-8879-4695-A510-9762A9B54A17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D6A88D4-9196-4F44-89C5-FA4C48408EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D6A88D4-9196-4F44-89C5-FA4C48408EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D6A88D4-9196-4F44-89C5-FA4C48408EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D6A88D4-9196-4F44-89C5-FA4C48408EBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
